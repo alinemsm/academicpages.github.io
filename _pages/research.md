@@ -14,9 +14,9 @@ redirect_from:
 
 * Voting motivations and political corruption
 
-* Welfare dependency and poverty traps: Evaluating the contribution of health policy using administrative data (with Sonia Bhalotra and Rudi Rocha)
+* Welfare dependency and poverty traps: Evaluating the contribution of health policy using administrative data (*with Sonia Bhalotra and Rudi Rocha*)
 
-* Incumbency advantage: The bureaucracy appointment mechanism (with Vinícius Schuabb and Rudi Rocha)
+* Incumbency advantage: The bureaucracy appointment mechanism (*with Vinícius Schuabb and Rudi Rocha*)
 
-* The costs of crime in elections (with Martin Koppensteiner and Lívia Menezes)
+* The costs of crime in elections (*with Martin Koppensteiner and Lívia Menezes*)
 
