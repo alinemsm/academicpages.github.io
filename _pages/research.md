@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-
+$~$
 * Internet availability, political information, and voting: Evidence from Brazil
 
 * Do some electoral systems select better politicians than others? Single- vs dual-ballot elections
