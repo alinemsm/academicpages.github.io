@@ -17,5 +17,5 @@ author_profile: true
 
 * Incumbency advantage: The bureaucracy appointment mechanism (with Vinícius Schuabb and Rudi Rocha)
 
-* The costs of crime in elections (with Martion Koppensteiner and Lívia Menezes)
+* The costs of crime in elections (with Martin Koppensteiner and Lívia Menezes)
 
