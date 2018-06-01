@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aline Menezes"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher"
+  bio              : ""
   location         : "São Paulo, Brazil"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
