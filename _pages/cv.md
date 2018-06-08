@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[__\***Click here for a full version in pdf**\*__](https://alinemsm.github.io/files/MenezesCV2018.pdf)
+
 
 Education
 ======
@@ -26,4 +26,7 @@ Work experience
 * 2010-Present (On leave): Economist
   * [Banco do Nordeste](https://www.wikiwand.com/en/Banco_do_Nordeste)
   * Duties included: input-output analysis, macroeconomics forecasts, default risk, etc
+  
+  
+  [__\***Click here for a full version in pdf**\*__](https://alinemsm.github.io/files/MenezesCV2018.pdf)
 
