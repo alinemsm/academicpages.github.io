@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for the a full version in pdf.](https://alinemsm.github.io/files/MenezesCV2018.pdf)
+[__\***Click here for a full version in pdf**\*__](https://alinemsm.github.io/files/MenezesCV2018.pdf)
 
 Education
 ======
