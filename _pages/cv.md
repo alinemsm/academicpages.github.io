@@ -28,5 +28,5 @@ Work experience
   * Duties included: input-output analysis, macroeconomics forecasts, default risk, etc
   
   
-  [__\***Click here for a full version in pdf**\*__](https://alinemsm.github.io/files/MenezesCV2018.pdf)
+  [More details...](https://alinemsm.github.io/files/MenezesCV2018.pdf)
 
