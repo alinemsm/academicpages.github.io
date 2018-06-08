@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here for the a full version in pdf.](https://alinemsm.github.io/files/MenezesCV2018.pdf)
+
 Education
 ======
 * B.S. Economics (*Magna cum laude*), Universidade Federal do Ceará, 2007
